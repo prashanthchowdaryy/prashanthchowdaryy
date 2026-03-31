@@ -2,6 +2,11 @@
 🔭 Building AI agents and data-driven applications  <br>🤝 Open to collaborations on ML, AI, and automation projects  <br>🧠 Exploring advanced concepts in machine learning and intelligent systems  <br>🌱 Currently focused on becoming a Data Analyst with strong ML skills  <br>💬 Ask me about Python, Pandas, and real-world projects  <br>⚡ Fun fact: I learn by building, not by watching tutorials
 
 
+
+
+
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/prashanthchowdaryy/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prashanth-chowdary-812671357/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/Aggressiv_Deadpool/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@prashanth chowdary) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prashanthchowdaryy083@gmail.com) 
 
