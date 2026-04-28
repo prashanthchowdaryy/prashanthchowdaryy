@@ -1,113 +1,81 @@
 <h1>Hi 👋 I'm <a href="https://github.com/prashanthchowdaryy">Prashanth Chowdary</a></h1>
 
-<p>
-🎓 BCA Student <br>
-📊 Data Analyst & AI Developer <br>
-⚡ Building real-world AI & data-driven applications
-</p>
+🎓 BCA Student  
+Data Analyst & App Developer
+Passionate about coding & problem solving  
+
+
+
+## 🔭 About Me
+- 🔭 I’m currently working on Data Analytics Projects using Python & Pandas  
+- 👯 I’m looking to collaborate on beginner-friendly projects  
+- 🤝 I’m looking for help with real-world datasets and project ideas  
+- 🌱 I’m currently learning Python, SQL, Data Analysis & Web Development  
+- 💬 Ask me about Python, C programming & data analysis  
+- ⚡ Fun fact: I love turning data into insights 📊  
 
 ---
 
-<h2>🔭 About Me</h2>
-
-<ul>
-<li>🚀 Currently building an <b>AI-powered BIS Standards Recommendation Engine (RAG System)</b></li>
-<li>📊 Working on <b>Data Analytics & Machine Learning projects</b> using Python & Pandas</li>
-<li>🤖 Exploring <b>LLMs, GenAI & real-world AI applications</b></li>
-<li>👯 Looking to collaborate on <b>AI & Data Science projects</b></li>
-<li>🌱 Learning <b>Advanced Python, SQL, Data Analysis & Cloud Deployment</b></li>
-<li>💬 Ask me about <b>Python, ML, Data Analysis & AI Systems</b></li>
-<li>⚡ I turn raw data into meaningful insights 📊</li>
-</ul>
+## 🌐 Connect with me
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/prashanthchowdaryy/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prashanth-chowdary-812671357/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/Aggressiv_Deadpool/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@prashanth chowdary) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prashanthchowdaryy083@gmail.com) 
 
 ---
 
-<h2>🌐 Connect with Me</h2>
+# 💻 Tech Stack
 
-<p>
-<a href="https://www.linkedin.com/in/prashanth-chowdary-812671357/">LinkedIn</a> •
-<a href="https://www.instagram.com/prashanthchowdaryy/">Instagram</a> •
-<a href="mailto:prashanthchowdaryy083@gmail.com">Email</a>
-</p>
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
----
-
-<h2>💻 Tech Stack</h2>
-
-<p>
-<a href="https://www.python.org/">Python</a> •
-<a href="https://www.mysql.com/">SQL</a> •
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a> •
-<a href="https://www.java.com/">Java</a> •
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)">C</a> •
-<a href="https://www.php.net/">PHP</a>
-</p>
 
 ---
 
-<h2>⚙️ Frameworks & Tools</h2>
-
-<p>
-<a href="https://react.dev/">React</a> •
-<a href="https://nodejs.org/">Node.js</a> •
-<a href="https://expressjs.com/">Express</a> •
-<a href="https://flask.palletsprojects.com/">Flask</a> •
-<a href="https://fastapi.tiangolo.com/">FastAPI</a> •
-<a href="https://streamlit.io/">Streamlit</a>
-</p>
+## ☁️ Cloud & Tools
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0167ff?style=for-the-badge&logo=digitalOcean&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/googlecloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-000000?style=for-the-badge&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
-<h2>📊 Data & AI</h2>
-
-<p>
-<a href="https://pandas.pydata.org/">Pandas</a> •
-<a href="https://numpy.org/">NumPy</a> •
-<a href="https://scikit-learn.org/">Scikit-learn</a> •
-<a href="https://www.tensorflow.org/">TensorFlow</a> •
-<a href="https://pytorch.org/">PyTorch</a> •
-RAG Systems • LLM Integration • FAISS
-</p>
+## ⚙️ Frameworks & Libraries
+![React](https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flutter](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Streamlit](https://img.shields.io/badge/streamlit-FE4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ---
 
-<h2>🚀 Featured Project</h2>
-
-<p>
-<b>BIS Standards Recommendation Engine</b><br>
-AI system that helps Micro & Small Enterprises find relevant BIS standards instantly.
-</p>
-
-<ul>
-<li>📄 Upload PDFs → build knowledge base</li>
-<li>🔍 Hybrid Search (semantic + keyword)</li>
-<li>🧩 Smart Chunking + Re-ranking</li>
-<li>🤖 LLM-powered explanations</li>
-<li>⚡ Fast & scalable system</li>
-</ul>
+## 📊 Data & ML
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ---
 
-<h2>📊 GitHub Stats</h2>
+## 📊 GitHub Stats
 
-<p>
-<img src="https://prashanthchowdaryy.github.io/portfolio_prashanth/" />
-</p>
+![GitHub Stats](https://prashanthchowdaryy.github.io/portfolio_prashanth/)
 
-<p>
-<img src="https://streak-stats.demolab.com?user=prashanthchowdaryy&theme=radical" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=prashanthchowdaryy&theme=radical)
 
----
 
-<h2>📈 Contribution Graph</h2>
 
-<p>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prashanthchowdaryy&theme=react-dark" />
-</p>
+## 📈 Contribution Graph (Dots 🔥)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prashanthchowdaryy&theme=react-dark)
 
 ---
 
-<p align="center">
-⭐ <i>Building in public • Learning by doing • Growing every day</i>
-</p>
