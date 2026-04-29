@@ -7,13 +7,11 @@ Passionate about coding & problem solving
 
 
 ##  About Me
-- I’m currently working on Data Analytics Projects using Python & Pandas  
+- I’m currently working on Data Analytics Projects  
 - I’m looking to collaborate on beginner-friendly projects  
 - I’m looking for help with real-world datasets and project ideas  
 - I’m currently learning Python, SQL, Data Analysis & Web Development  
 - Ask me about Python, C programming & data analysis  
-- Fun fact: I love turning data into insights 
-- 
 ---
 
 ##  Connect with me
