@@ -12,8 +12,8 @@ Passionate about coding & problem solving
 - 🤝 I’m looking for help with real-world datasets and project ideas  
 - 🌱 I’m currently learning Python, SQL, Data Analysis & Web Development  
 - 💬 Ask me about Python, C programming & data analysis  
-- ⚡ Fun fact: I love turning data into insights 📊  
-
+- ⚡ Fun fact: I love turning data into insights 📊
+- 
 ---
 
 ## 🌐 Connect with me
