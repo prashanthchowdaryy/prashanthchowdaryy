@@ -67,7 +67,7 @@ Passionate about coding & problem solving
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://prashanthchowdaryy.github.io/portfolio_prashanth/)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=simranpattnaik&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=prashanthchowdaryy&theme=radical)
 
