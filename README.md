@@ -1,6 +1,6 @@
 <h1>Hi  I'm <a href="https://github.com/prashanthchowdaryy">Prashanth Chowdary</a></h1>
 
-🎓 BCA Student  
+BCA Student  
 Data Analyst & App Developer
 Passionate about coding & problem solving  
 
@@ -12,7 +12,7 @@ Passionate about coding & problem solving
 - I’m looking for help with real-world datasets and project ideas  
 - I’m currently learning Python, SQL, Data Analysis & Web Development  
 - Ask me about Python, C programming & data analysis  
-- Fun fact: I love turning data into insights 📊
+- Fun fact: I love turning data into insights 
 - 
 ---
 
@@ -55,7 +55,7 @@ Passionate about coding & problem solving
 
 ---
 
-## 📊 Data & ML
+##  Data & ML
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
@@ -65,7 +65,7 @@ Passionate about coding & problem solving
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=simranpattnaik&show_icons=true&theme=radical)
 
