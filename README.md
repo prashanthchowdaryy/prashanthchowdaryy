@@ -5,7 +5,6 @@ Data Analyst & App Developer
 Passionate about coding & problem solving  
 
 
-
 ##  About Me
 - I’m currently working on Data Analytics Projects  
 - I’m looking to collaborate on beginner-friendly projects  
